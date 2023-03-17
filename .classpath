@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Old_T1_A5_CanoMurilloKevinDaniel/src"/>
+	<classpathentry kind="src" path="T1_A2_CanoMurilloKevinDaniel/src"/>
+	<classpathentry kind="src" path="T1_A3_CanoMurilloKevinDaniel/src"/>
+	<classpathentry kind="src" path="T1_A4_CanoMurilloKevinDaniel/src"/>
+	<classpathentry kind="src" path="T1_A5_CanoMurilloKevinDaniel/src"/>
+	<classpathentry kind="output" path="Old_T1_A5_CanoMurilloKevinDaniel/bin"/>
+</classpath>
