@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+
+    <string name="btn_igual">=</string>
+    <string name="btn_raiz">√</string>
+    <string name="btn_cuadrado">x²</string>
+    <string name="btn_fraccion">¹/x</string>
+    <string name="btn_borrar">←</string>
+    <string name="btn_simbolo">±</string>
+    <string name="btn_porcentaje">%</string>
+    <string name="btn_punto">.</string>
+    <string name="btn_CE">CE</string>
+
+    <string name="btn_multi">x</string>
+    <string name="btn_divi">÷</string>
+    <string name="btn_suma">+</string>
+    <string name="btn_resta">-</string>
+
+    <string name="txt_resultado">0</string>
+
+    <string name="btn_Num0">0</string>
+    <string name="btn_Num1">1</string>
+    <string name="btn_Num2">2</string>
+    <string name="btn_Num3">3</string>
+    <string name="btn_Num4">4</string>
+    <string name="btn_Num5">5</string>
+    <string name="btn_Num6">6</string>
+    <string name="btn_Num7">7</string>
+    <string name="btn_Num8">8</string>
+    <string name="btn_Num9">9</string>
+</resources>
