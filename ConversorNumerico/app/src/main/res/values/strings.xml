@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ConversorNumerico</string>
+
+    <string name="Dec">Decimal</string>
+    <string name="Bin">Binario</string>
+    <string name="Oct">Octal</string>
+    <string name="Hex">Hexadecimal</string>
+
+    <string name="lbl_Titulo">CONVERSOR</string>
+    <string name="lbl_E1">Ingrese Numero</string>
+
+</resources>
